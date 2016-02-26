@@ -1,6 +1,7 @@
 # Pitch Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/llmYkjksxeM" frameborder="0" allowfullscreen></iframe>
+
+[![BluLocker](http://img.youtube.com/watch?v=llmYkjksxeM/0.jpg)](http://www.youtube.com/watch?v=llmYkjksxeM)
 
 # Follow these steps to use BluLocker:
 
