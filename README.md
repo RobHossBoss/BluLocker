@@ -1,7 +1,7 @@
 # Pitch Video
 
 
-[![BluLocker](http://img.youtube.com/watch?v=llmYkjksxeM/0.jpg)](http://www.youtube.com/watch?v=llmYkjksxeM)
+[![BluLocker](http://img.youtube.com/watch?v=llmYkjksxeM.jpg)](http://www.youtube.com/watch?v=llmYkjksxeM)
 
 # Follow these steps to use BluLocker:
 
